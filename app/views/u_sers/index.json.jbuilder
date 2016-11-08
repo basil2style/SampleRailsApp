@@ -1,0 +1,1 @@
+json.array! @u_sers, partial: 'u_sers/u_ser', as: :u_ser
